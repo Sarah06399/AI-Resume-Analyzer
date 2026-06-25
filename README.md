@@ -462,38 +462,6 @@ Resume records are deduplicated using semantic hashing, while analytics are stor
 
 ---
 
-## Resume Summary & Target Role Selection
-
-<p align="center">
-  <img src="docs/screenshots/resume_target_job_role.png" width="900">
-</p>
-
----
-
-## Skill Gap Analysis & Job Match Score
-
-<p align="center">
-  <img src="docs/screenshots/skill_gap_resume_score.png" width="900">
-</p>
-
----
-
-## Learning Resources
-
-<p align="center">
-  <img src="docs/screenshots/recomendations.png" width="900">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/recom1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/recom2.png" width="45%">
-  <img src="docs/screenshots/recom3.png" width="45%">
-</p>
-
----
 
 # Admin Dashboard
 
@@ -506,65 +474,10 @@ Resume records are deduplicated using semantic hashing, while analytics are stor
 
 ---
 
-## System Overview
-
-<p align="center">
-  <img src="docs/screenshots/system_overview.png" width="900">
-</p>
-
----
-
-## Resume Analytics
-
-<p align="center">
-  <img src="docs/screenshots/admin_insights.png" width="900">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/ingights.png" width="900">
-</p>
-
----
-
-## Resume Distribution
-
-<p align="center">
-  <img src="docs/screenshots/distributions1.png" width="900">
-  <img src="docs/screenshots/distribution2.png" width="900">
-</p>
-
----
-
-## Resume Similarity
-
-<p align="center">
-  <img src="docs/screenshots/resume_similarity.png" width="900">
-</p>
-
----
-
-## Resume Clustering
-
-<p align="center">
-  <img src="docs/screenshots/clustering1.png" width="900">
-  <img src="docs/screenshots/clustering2.png" width="900">
-</p>
-
----
-
-## Download Analytics
-
-<p align="center">
-  <img src="docs/screenshots/download_analytics.png" width="900">
-</p>
-
----
-
 ## Feedback Page
 
 <p align="center">
   <img src="docs/screenshots/feedback1.png" width="900">
-  <img src="docs/screenshots/feedback2.png" width="900">
 </p>
 
 ---
